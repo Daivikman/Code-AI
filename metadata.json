@@ -1,0 +1,7 @@
+{
+  "name": "Code AI Platform",
+  "description": "A futuristic AI-powered coding assistant designed as a VS Code extension concept. It features a 3D interface, voice commands, and multiple AI tools for code generation, explanation, debugging, and optimization across a wide range of programming languages.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
